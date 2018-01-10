@@ -1,4 +1,4 @@
-### Chrome 壁纸插件 Momentum]
+### Chrome 壁纸插件 Momentum
 如果可以翻墙，可以直接在chrome extension app store 下载
 
 ### [Chrome 标签页美化 infinity-pro](https://github.com/wave-gbt/Chrome-Extensions/blob/master/infinity-pro.crx)
